@@ -1,6 +1,6 @@
 # PHYS220 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman, Jared Love**
 
 ## Specification
 
@@ -63,7 +63,7 @@ the coordinates in a list.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment was a very helpful reminder on loops and lists, as well as a great intro to Jupyter notebooks. The summation program was very interseting.**
 
 ## Honor Pledge
 
@@ -74,4 +74,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman, Jared Love**
